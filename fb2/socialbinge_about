@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- xmlns="http://wwww.w3.org/1999/xhtml" emlns:og="http://ogp.me/ns"-->
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		socialBINGE About Page
+	</title>
+	<link href='https://fonts.googleapis.com/css?family=Exo|Average' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_/css/styles.css">
+	<script type="text/javascript" src="_/js/jquery-1.11.3.min.js"></script>
+	<script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
+	<link rel="stylesheet" href="_/css/upload_video.css">
+	<link rel="stylesheet" href="_/css/my_uploads.css">
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans' type='text/css'>
+	<style>
+		a {
+			text-decoration:none;
+		}
+	</style>
+</head>
+<body>
+	<h2 class="label">socialBINGE About Page</h2>
+	<p class="articles">
+	Install the <em><b>socialBINGE</b></em> app platform to harness the power of social media. With <em><b>socialBINGE</b></em> you can bring together your social networks and also integrate with other business applications. Use <em><b>socialBINGE</b></em> to enhance the user experience for your followers, subscribers & friends while you continue to build relationships and grow your base, your brand, your market, and your revenue.
+	</p>
+	<a href="https://elamsestates.com/fb/socialbinge_features">socialBINGE Features Page</a>
+	<br>
+	<a href="https://elamsestates.com/fb/socialbinge_pricing">socialBINGE Pricing Page</a>
+	<br>
+	<br>
+	<a href="https://apps.facebook.com/socialbinge">Back to homepage for desktop</a>
+	<br>
+	<br>
+	<a href="https://www.facebook.com/socialbinge">Back to homepage for mobile</a>
+	</p>
+</body>
+</html>

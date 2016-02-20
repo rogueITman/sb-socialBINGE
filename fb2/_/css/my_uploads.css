@@ -1,0 +1,15 @@
+.paging-button {
+  visibility: hidden;
+}
+
+.button-container {
+  clear: both;
+}
+
+form { margin-top: 20px; }
+form, #results { padding: 0 20px; }
+.item { margin-bottom: 25px; }
+.w100 { width: 100%; }
+
+.btn-primary { background: #9b9b9b; border-color: #9b9b9b; }
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: #000000;  border-color: #000000; }

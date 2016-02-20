@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!-- xmlns="http://wwww.w3.org/1999/xhtml" emlns:og="http://ogp.me/ns"-->
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		socialBINGE Pricing Page
+	</title>
+	<link href='https://fonts.googleapis.com/css?family=Exo|Average' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_/css/styles.css">
+	<script type="text/javascript" src="_/js/jquery-1.11.3.min.js"></script>
+	<script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
+	<link rel="stylesheet" href="_/css/upload_video.css">
+	<link rel="stylesheet" href="_/css/my_uploads.css">
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans' type='text/css'>
+	<style>
+		a {
+			text-decoration:none;
+		}
+		.img1 img{
+			width:100%;
+		}
+		
+	</style>
+</head>
+<body>
+	<h2 class="label">socialBINGE Pricing Page</h2>
+	<h3 class="articles">Compare socialBINGE to the Market Leaders</h3>
+	<p class="articles img1"><img src="/fb/images/socialMgmCompareChart.png"></p>
+	<h3 class="articles">The Price of socialBINGE</h3>
+	<ul>
+		<li>$0.99 /mo.</li>
+	</ul>
+	<br>
+	<h3>The socialBINGE Difference</h3>
+	<p class="articles">
+	Let the people who use the software be the voice that determines how the software should work and what features should be added. In this way, your feedback is vital and is the very foundation to building a superior experience like none other.
+	</p>
+	<a href="https://elamsestates.com/fb/socialbinge_about">socialBINGE About Page</a>
+	<br>
+	<a href="https://elamsestates.com/fb/socialbinge_features">socialBINGE Features Page</a>
+	<br>
+	<br>
+	<a href="https://www.facebook.com/socialbinge/app/960499163985821/">Back to homepage for desktop</a>
+	<br>
+	<br>
+	<a href="https://www.facebook.com/socialbinge">Back to homepage for mobile</a>
+	</p>
+</body>
+</html>
