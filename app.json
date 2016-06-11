@@ -1,0 +1,16 @@
+{
+  "name": "sb-socialBINGE",
+  "description": "An app framework that you can use to integrate all of your social media content together.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
